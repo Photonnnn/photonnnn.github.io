@@ -13,6 +13,35 @@ html:
             }
         });
     </script>
+    <script>
+        document.onreadystatechange = function () {
+            if (document.readyState == "complete") {
+                document.body.style.display = "block";
+            } else {
+                document.body.style.display = "none";
+            };
+        };
+    </script><!-- 加载完再渲染 -->
+    <script>
+          window.onload=function(){
+          document.onkeydown=function(){
+                var e=window.event||arguments[0];
+                if(e.keyCode==123){
+                    alert("请诚信作答！");
+                    return false;
+              }else if((e.ctrlKey)&&(e.shiftKey)&&(e.keyCode==73)){
+                    alert("请诚信作答！");
+                    return false;
+              }else if((e.ctrlKey)&&(e.keyCode==85)){//追加
+                    return false;
+  　　　　　　　}
+            };
+          document.oncontextmenu=function(){
+              alert("请诚信作答！");
+              return false;
+            }
+        }
+        </script><!--禁用查看源代码-->
 </head>
 
 $\LaTeX$ Competition
