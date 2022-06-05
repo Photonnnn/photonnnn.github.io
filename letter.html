@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?ea5526a995a7b2c66c55f577ce5156cc";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+    <head>
+        <title>不许偷看我的信</title>
+        <meta name="author" content="Photon">
+        <meta name="description" content="No description for you!">
+        <link rel="stylesheet" href="letter.css">
+        <link rel="shortcut icon" href="heart.ico" type="image/x-icon">
+        <audio preload="auto" controls autoplay loop>
+            <source src="http://music.163.com/song/media/outer/url?id=1433434882.mp3">
+        </audio>
+        <script>
+            function load()
+                {
+                    alert("请在电脑端使用Chrome或Firefox浏览器访问网页！");
+                    //alert("Please visit this website via Chrome browser or Firefox browser on computer!")
+                }
+        </script>
+        <!--禁用右键-->
+        <script type="text/javascript">
+            function stop() {
+                return false;
+            }
+            document.oncontextmenu = stop;
+        </script>
+    </head>
+    <body>
+        <div id="envelope">
+            <div id="to_some_one">Photon pro rev.</div>
+        </div>
+        <div id="paper">
+            <div id="letter_title">I MISS U</div>
+            <div id="letter"><p>Hi! Today is 
+                <span id="ymd">
+                    <script>
+                        var date = new Date()
+                        var y = date.getFullYear();
+                        var m = date.getMonth()+1;
+                        var d = date.getDate(); 
+                        document.getElementById("ymd").innerHTML = y+"-"+m+"-"+d;
+                    </script>
+                    
+                </span>and now it's 
+                <span id="hmin">
+                    <script>
+                        var date = new Date()
+                        var h = date.getHours();
+                        var min = date.getMinutes();
+                        document.getElementById("hmin").innerHTML = h+":"+min;
+                    </script>
+                </span>. To tell the truth, I miss you a little bit at this very moment.</p><p>Just a little.</p><p>Good luck.</p></div>
+        </div>
+        <div id="envelopeback">
+
+        </div>
+        <script>
+            load()
+        </script>
+        <!--
+        <script>
+            document.write('<pre>')
+            document.writeln('characterSet: ' + document.characterSet)
+            document.writeln('charset: ' + document.charset)
+            document.writeln('compatMode: ' + document.compatMode)
+            document.writeln('defaultCharset: ' + document.defaultCharset)
+            document.writeln('dir: ' +document.dir)
+            document.writeln('domain: ' + document.domain)
+            document.writeln('implementation: ' + document.implementation)
+            document.writeln('lastModified: ' + document.lastModified)
+            document.writeln('referrer: ' + document.referrer)
+            document.writeln('title: ' + document.title)
+            document.write('</pre>')
+        </script>
+        -->
+    </body>
+</html>
