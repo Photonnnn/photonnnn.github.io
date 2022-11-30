@@ -9,15 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 <!-- * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 * Undergraduate in Tongji University, 2020-2024
 
-Awards
-====
+## Awards
 * China Undergraduate Physics Experiment Competition, National First-Class Prize, 2022.
 * China Undergraduate Physics Tournament, National Third-Class Prize, 2022.
 * 2021 University Physics Competition, Bronze Award, 2021.
