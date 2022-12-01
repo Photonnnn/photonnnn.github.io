@@ -23,7 +23,7 @@ redirect_from:
 
 ## Research Experience
 * Student Innovation Training Program(School Level), Program closed successfully, Program name *Micromagnetic Study of Spin Electronic Thin Film Devices*.
-* I've worked in my tutor, Yaowen Liu's(https://www.webofscience.com/wos/author/record/956867) research group for 1 year, doing research on condensed matter physics, more specifically, micromagnetic characteristics of 2-d van der Waals material, such as CrCl3.
+* I've worked in my tutor, Yaowen Liu's[https://www.webofscience.com/wos/author/record/956867](https://www.webofscience.com/wos/author/record/956867) research group for 1 year, doing research on condensed matter physics, more specifically, micromagnetic characteristics of 2-d van der Waals material, such as CrCl3.
 
 ## Skills
 * I'm a native Chinese speaker with fine English language proficiency (CET4 588, CET6 513). I'm recently preparing for TOEFL.
