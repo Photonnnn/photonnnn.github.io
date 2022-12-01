@@ -30,7 +30,8 @@ redirect_from:
 * I'm familiar with python, matlab, latex. I know about c++, fortran and some other languages.
 
 ## Others
-* I'm obsessed with theoritical physics, especially particle physics, field theory, string theory, etc. I'm looking for a master or phd. offer on these fields.
+* I'm obsessed with theoritical physics, especially particle physics, field theory, string theory, etc. I'm looking for a master or phd offer on these fields.
+* I'm reading *Modern Quantum Mechanics* by Sakurai and *An Introduction to Quantum Field Theory* by Peskin recently, willing for discussing on these topics.
 
 <!-- Work experience
 ======
