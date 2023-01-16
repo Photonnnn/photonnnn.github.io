@@ -32,7 +32,7 @@ redirect_from:
 ## Others
 * I'm obsessed with theoritical physics, especially particle physics, field theory, string theory, etc. I'm looking for a master or phd offer on these fields.
 * I'm reading *Modern Quantum Mechanics* by Sakurai and *An Introduction to Quantum Field Theory* by Peskin recently, willing for discussing on these topics.
-* A school report for last 2.5 years(because I'm a junior at present) is available if you need. See [academic record](../files/academic_record.pdf) and [grading system](../files/grading_system.pdf).
+* A school report for last 2.5 years(because I'm a junior at present) is available if you need. See [academic record](https://photonnnn.github.io/files/academic_record.pdf) and [grading system](https://photonnnn.github.io/files/grading_system.pdf).
 
 <!-- Work experience
 ======
