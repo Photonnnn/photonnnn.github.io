@@ -18,7 +18,7 @@ redirect_from:
 ## Awards
 * China Undergraduate Physics Experiment Competition, National First-Class Prize, 2022.
 * China Undergraduate Physics Tournament, National Third-Class Prize, 2022.
-* 2021 University Physics Competition, Bronze Award, 2021.
+* 2022 University Physics Competition, Bronze Award, 2022.
 * Mathematical Contest In Modeling, Honorable Mention, 2022.
 
 ## Research Experience
@@ -31,7 +31,7 @@ redirect_from:
 
 ## Others
 * I'm obsessed with theoritical physics, especially particle physics, field theory, string theory, etc. I'm looking for a master or phd offer on these fields.
-* I'm reading *Modern Quantum Mechanics* by Sakurai and *An Introduction to Quantum Field Theory* by Peskin recently, willing for discussing on these topics.
+* I'm learning elementary particle physics.
 * A school report for last 2.5 years(because I'm a junior at present) is available if you need. See [academic record](https://photonnnn.github.io/files/academic_record.pdf) and [grading system](https://photonnnn.github.io/files/grading_system.pdf).
 
 <!-- Work experience
