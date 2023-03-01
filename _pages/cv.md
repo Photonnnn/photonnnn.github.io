@@ -28,7 +28,7 @@ redirect_from:
 
 ## Skills
 * I'm a native Chinese speaker with fine English language proficiency (CET4 588, CET6 542). I'm recently preparing for TOEFL.
-* I'm familiar with python, matlab, latex. I know about c++, fortran and some other languages.
+* I'm familiar with python, matlab, latex. I know about c++, fortran and some other languages. I have some experience of using computational server.
 
 ## Others
 * I'm obsessed with theoritical physics, especially particle physics, field theory, etc. I'm looking for a master or phd offer on these fields.
