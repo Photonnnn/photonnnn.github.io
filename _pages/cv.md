@@ -26,7 +26,7 @@ redirect_from:
 * I've worked in my tutor, [Yaowen Liu](https://www.webofscience.com/wos/author/record/956867)'s research group for 1 year, doing research on condensed matter physics, or more specifically, micromagnetic characteristics of 2-d van der Waals materials, such as CrCl3.
 
 ## Skills
-* I'm a native Chinese speaker with fine English language proficiency (CET4 588, CET6 513). I'm recently preparing for TOEFL.
+* I'm a native Chinese speaker with fine English language proficiency (CET4 588, CET6 542). I'm recently preparing for TOEFL.
 * I'm familiar with python, matlab, latex. I know about c++, fortran and some other languages.
 
 ## Others
