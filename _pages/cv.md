@@ -30,8 +30,8 @@ redirect_from:
 * I'm familiar with python, matlab, latex. I know about c++, fortran and some other languages.
 
 ## Others
-* I'm obsessed with theoritical physics, especially particle physics, field theory, string theory, etc. I'm looking for a master or phd offer on these fields.
-* I'm learning elementary particle physics.
+* I'm obsessed with theoritical physics, especially particle physics, field theory, etc. I'm looking for a master or phd offer on these fields.
+* I'm learning elementary particle physics recently.
 * A school report for last 2.5 years(because I'm a junior at present) is available if you need. See [academic record](https://photonnnn.github.io/files/academic_record.pdf) and [grading system](https://photonnnn.github.io/files/grading_system.pdf).
 
 <!-- Work experience
