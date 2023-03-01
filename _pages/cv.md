@@ -20,6 +20,7 @@ redirect_from:
 * China Undergraduate Physics Tournament, National Third-Class Prize, 2022.
 * 2022 University Physics Competition, Bronze Award, 2022.
 * Mathematical Contest In Modeling, Honorable Mention, 2022.
+* National Undergraduate Mathematics Competition, Shanghai Second-Class Prize, 2021.
 
 ## Research Experience
 * Student Innovation Training Program(School Level), Program closed successfully, Program name *Micromagnetic Study of Spin Electronic Thin Film Devices*.
