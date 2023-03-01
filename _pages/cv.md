@@ -15,7 +15,7 @@ redirect_from:
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 * Undergraduate in School of Physics Science and Engineering, Tongji University, 2020-2024
 
-## Awards
+## Main Awards
 * China Undergraduate Physics Experiment Competition, National First-Class Prize, 2022.
 * China Undergraduate Physics Tournament, National Third-Class Prize, 2022.
 * 2022 University Physics Competition, Bronze Award, 2022.
