@@ -23,17 +23,15 @@ redirect_from:
 * National Undergraduate Mathematics Competition, Shanghai Second-Class Prize, 2021.
 
 ## Research Experience
-* Student Innovation Training Program(School Level), Program closed successfully, Program name *Micromagnetic Study of Spin Electronic Thin Film Devices*.
-* I've worked in my tutor, [Yaowen Liu](https://www.webofscience.com/wos/author/record/956867)'s research group for 1 year, doing research on condensed matter physics, or more specifically, micromagnetic characteristics of 2-d van der Waals materials, such as CrCl3.
+* Some simple work on condensed matter physics during undergraduate years.
 
 ## Skills
-* I'm a native Chinese speaker with fine English language proficiency (CET4 588, CET6 542). I'm recently preparing for TOEFL.
+* I'm a native Chinese speaker with fine English language proficiency (CET4 588, CET6 542, TOEFL 102).
 * I'm familiar with python, matlab, latex. I have some experience of using computational server.
 
 ## Others
-* I'm obsessed with theoritical physics, especially particle physics, field theory, etc. I'm looking for a master or phd offer on these fields.
-* I'm learning elementary particle physics recently.
-* A school report for last 2.5 years(because I'm a junior at present) is available if you need. See [academic record](https://photonnnn.github.io/files/academic_record.pdf) and [grading system](https://photonnnn.github.io/files/grading_system.pdf).
+* I'm obsessed with theoritical physics, especially particle physics, field theory, etc.
+* I'm learning instanton theory, QFT and GR recently.
 
 <!-- Work experience
 ======
