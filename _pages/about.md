@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ====
-Hi! I'm Sihao Xiao(肖竢豪), a junior major in physics in Tongji University.
+Hi! I'm Sihao Xiao(肖竢豪), an undergraduate major in physics in Tongji University.
 
 This page is still under construction. Please visit later or contact me now.
 
