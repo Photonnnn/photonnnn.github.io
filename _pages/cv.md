@@ -24,14 +24,14 @@ redirect_from:
 
 ## Research Experience
 * Some simple work on condensed matter physics during undergraduate years.
+* Recently working on inflation theory.
 
 ## Skills
 * I'm a native Chinese speaker with fine English language proficiency (CET4 588, CET6 542, TOEFL 102).
 * I'm familiar with python, matlab, latex. I have some experience of using computational server.
 
 ## Others
-* I'm obsessed with theoritical physics, especially particle physics, field theory, etc.
-* I'm learning instanton theory, QFT and GR recently.
+* I'll study particle physics and cosmology.
 
 <!-- Work experience
 ======
