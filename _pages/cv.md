@@ -13,25 +13,28 @@ redirect_from:
 <!-- * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-* Undergraduate in School of Physics Science and Engineering, Tongji University, 2020-2024
+* Undergraduate in School of Physics Science and Engineering, Tongji University, 2020-2024. B.S. obtained.
+* Graduate in ITP, CAS (Institute of Theoretical Physics, Chinese Academy of Sciences), 2024- .
 
 ## Main Awards
-* China Undergraduate Physics Experiment Competition, National First-Class Prize, 2022.
+<!-- * China Undergraduate Physics Experiment Competition, National First-Class Prize, 2022.
 * China Undergraduate Physics Tournament, National Third-Class Prize, 2022.
 * 2022 University Physics Competition, Bronze Award, 2022.
 * Mathematical Contest In Modeling, Honorable Mention, 2022.
-* National Undergraduate Mathematics Competition, Shanghai Second-Class Prize, 2021.
+* National Undergraduate Mathematics Competition, Shanghai Second-Class Prize, 2021. -->
 
 ## Research Experience
 * Some simple work on condensed matter physics during undergraduate years.
-* Recently working on inflation theory.
+* Have worked on inflation theory, f(R) theory for undergraduate thesis.
 
 ## Skills
 * I'm a native Chinese speaker with fine English language proficiency (CET4 588, CET6 542, TOEFL 102).
-* I'm familiar with python, matlab, latex. I have some experience of using computational server.
+<!--* I'm familiar with python, matlab, latex. I have some experience of using computational server.-->
+* I have some experience of using python and mathematica to do computation.
 
 ## Others
-* I'll study particle physics and cosmology.
+<!-- * I'll study particle physics and cosmology. -->
+* I'm on my first year of undergraduate study, mainly taking basic courses concerned on HEP.
 
 <!-- Work experience
 ======
