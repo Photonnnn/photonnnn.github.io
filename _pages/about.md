@@ -10,7 +10,9 @@ redirect_from:
 
 About me
 ====
-Hi! I'm Sihao Xiao(肖竢豪), an undergraduate major in physics in Tongji University.
+<!-- Hi! I'm Sihao Xiao(肖竢豪), an undergraduate major in physics in Tongji University. -->
+
+Hi! I'm Sihao Xiao(肖竢豪), a graduate major in theoretical physics in ITP, CAS (Institute of Theoretical Physics, Chinese Academy of Sciences).
 
 This page is still under construction. Please visit later or contact me now.
 
